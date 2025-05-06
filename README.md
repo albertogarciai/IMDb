@@ -39,7 +39,3 @@ Para ejecutar el análisis es necesario tener el archivo `movies.db` en la misma
 
 - No se deben incluir archivos sensibles como `.env` ni bases de datos en producción en el repositorio público.
 - Este proyecto es para fines educativos y de investigación.
-
-## Licencia
-
-Este proyecto está bajo la Licencia MIT.
